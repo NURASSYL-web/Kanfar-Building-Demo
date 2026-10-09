@@ -1,0 +1,43 @@
+{
+  "assets": [
+    {
+      "project": "ЖК Panorama",
+      "recommended_use": "hero",
+      "file": "panorama-hero.jpg",
+      "width": 2048,
+      "height": 1152,
+      "source_page": "https://korter.kz/жк-panorama-шымкент",
+      "image_url": "https://storage.googleapis.com/bd-kz-01/buildings-v2/2560x1920/48204.jpg",
+      "kind": "authentic project marketing render"
+    },
+    {
+      "project": "КД Otyrar Premium",
+      "recommended_use": "project card",
+      "file": "otyrar-premium-project.jpg",
+      "width": 1280,
+      "height": 720,
+      "source_page": "https://korter.kz/жк-otyrar-premium-шымкент",
+      "image_url": "https://storage.googleapis.com/bd-kz-01/buildings-v2/2560x1920/47824.jpg",
+      "kind": "authentic project marketing render"
+    },
+    {
+      "project": "ЖК Otbasy — I очередь",
+      "recommended_use": "project card",
+      "file": "otbasy-facade.jpg",
+      "width": 1140,
+      "height": 700,
+      "source_page": "https://kazgbc.kz/zelenye-obekty/zhiloe/mnogokvartirnyy-zhiloy-kompleks-s-kommercheskimi-pomeshcheniyami-i-parkingom-po-adresu-g-shymkent-ul/",
+      "image_url": "https://kazgbc.kz/upload/iblock/04f/1ippn5h7021otwnw41xt78t91o3ql0fr.jpg",
+      "kind": "authentic project marketing render",
+      "association_corroboration": "https://khc.kz/ru/press-center/news/681/"
+    }
+  ],
+  "reuse_information": "No open reuse license found. Korter terms section 8.1 reserves copyright and other intellectual property rights. KazGBC footer displays copyright; no image-specific reuse permission observed. Images are verified project material, not newly generated imagery.",
+  "rights_source": "https://korter.kz/terms-of-service",
+  "official_site_status": "https://kanfarbuilding.kz timed out via search and returned 502 Connection refused via curl on 2026-10-09.",
+  "contact_source": "https://2gis.kz/shymkent/firm/70000001053843462",
+  "whatsapp": "https://wa.me/77000820007",
+  "project_details_source": "https://korter.kz/kanfar-building",
+  "panorama_facts_source": "https://khc.kz/press-center/news/4438/",
+  "checked_date": "2026-10-09"
+}
